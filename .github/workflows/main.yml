@@ -36,5 +36,5 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             ls -la
-            cd /home/bulliroti/automator.torquedigital.co.za
+            cd /home/bulliroti/bulletqr.com
             git pull origin main
