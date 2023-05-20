@@ -35,5 +35,6 @@ jobs:
           key: ${{ secrets.SSHKEY }}
           port: ${{ secrets.PORT }}
           script: |
+            ls -la
             cd /home/bulliroti/automator.torquedigital.co.za
             git pull origin main
