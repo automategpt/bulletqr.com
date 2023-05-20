@@ -1,0 +1,10 @@
+**/.DS_Store
+dockers/python_api/app/models/__pycache__
+dockers/python_api/app/modules/__pycache__
+dockers/python_api/app/routes/__pycache__
+dockers/python_api/app/__pycache__
+dockers/python_api/app/env.sh
+dockers/python_api/app/venv
+dockers/db/data/*
+dockers/db/data
+.env
